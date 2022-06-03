@@ -1,0 +1,7 @@
+/home/dale/local/cpp/memory/build/linearallocator.o: /home/dale/local/cpp/memory/linearallocator.cpp \
+ /home/dale/local/cpp/memory/linearallocator.hpp \
+ /home/dale/local/cpp/memory/allocator.hpp \
+ /home/dale/local/cpp/memory/memory.hpp
+/home/dale/local/cpp/memory/build/main.o: /home/dale/local/cpp/memory/main.cpp
+/home/dale/local/cpp/memory/build/allocator.o: /home/dale/local/cpp/memory/allocator.cpp \
+ /home/dale/local/cpp/memory/allocator.hpp
